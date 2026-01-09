@@ -1,7 +1,7 @@
 # Healthcare-dashboard
 Healthcare Analytics Dashboard(Excel)
 
-Objective: To analyze healthcare dataset from Kaggle an gain insights by highlighting trends and patterns in patients, medical conditions, cost etc
+Objective: To analyze healthcare dataset from Kaggle and gain insights by highlighting trends and patterns in patients, medical conditions, cost etc
 
 
 
